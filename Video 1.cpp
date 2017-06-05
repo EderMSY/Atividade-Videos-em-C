@@ -1,3 +1,7 @@
+//Eder Macedo da Silva - 2216104254
+//Dan Phillip D. de Oliveira - 2217114612
+//Laercio Ariel Macedo - 2216101782
+
 #include<stdio.h>
 #include<stdlib.h>
 
@@ -21,7 +25,7 @@ main(){
 				printf("\nContinue estudando...\n");
 				break;
 			default:
-				printf("\nResposta Inv·lida.");
+				printf("\nResposta Inv√°lida.");
 				break;
 		}
 		if(n==1) break;
@@ -41,7 +45,7 @@ main(){
 				printf("\nEstude focando esse tema.\n");
 				break;
 			default:
-				printf("\nResposta Inv·lida.\n");
+				printf("\nResposta Inv√°lida.\n");
 				break;
 		}
 		if(n==1) break;
