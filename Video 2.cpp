@@ -1,3 +1,7 @@
+//Eder Macedo da Silva - 2216104254
+//Dan Phillip D. de Oliveira - 2217114612
+//Laercio Ariel Macedo - 2216101782
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <conio.h>
